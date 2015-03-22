@@ -1,2 +1,2 @@
 # AI-simple
-First steps toward learning Programs
+First steps towards "learning Programs"
